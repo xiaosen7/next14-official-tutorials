@@ -1,5 +1,8 @@
 {
   "private": true,
+  "repository": {
+    "url": "https://next14-official-tutorials-ibsk.vercel.app/"
+  },
   "scripts": {
     "build": "next build",
     "dev": "next dev",
